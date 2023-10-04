@@ -1,1 +1,4 @@
-../ehsan-src/blog.md
+@def title = "blog"
+
+
+Under construction.
